@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2ac37bb-e999-4df3-a963-46cda1c7183e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="crud-kotlin" />
+  </component>
+  <component name="ProjectId" id="1gZLhH7jNzPjLIr67gmjFvIgWQA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kotlin-javalin-realworld-example-app" />
+  </component>
+  <component name="RunManager" selected="Kotlin.org.example.MainKt">
+    <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="crud-kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.HelloKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="crud-kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.example.HelloKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="crud-kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.example.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.org.example.MainKt" />
+        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.org.example.HelloKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2ac37bb-e999-4df3-a963-46cda1c7183e" name="Default Changelist" comment="" />
+      <created>1598317284655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598317284655</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="726" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598317973815">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state x="726" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/52.27.1868.1053@52.27.1868.1053" timestamp="1598317973815" />
+    <state x="1151" y="358" width="594" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598319257321">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state x="1151" y="358" width="594" height="397" key="#com.intellij.fileTypes.FileTypeChooser/52.27.1868.1053@52.27.1868.1053" timestamp="1598319257321" />
+    <state x="769" y="279" width="424" height="556" key="FileChooserDialogImpl" timestamp="1598323253054">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state x="769" y="279" width="424" height="556" key="FileChooserDialogImpl/52.27.1868.1053@52.27.1868.1053" timestamp="1598323253054" />
+    <state width="1822" height="275" key="GridCell.Tab.0.bottom" timestamp="1598323255920">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state width="1822" height="275" key="GridCell.Tab.0.bottom/52.27.1868.1053@52.27.1868.1053" timestamp="1598323255920" />
+    <state width="1822" height="275" key="GridCell.Tab.0.center" timestamp="1598323255920">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state width="1822" height="275" key="GridCell.Tab.0.center/52.27.1868.1053@52.27.1868.1053" timestamp="1598323255920" />
+    <state width="1822" height="275" key="GridCell.Tab.0.left" timestamp="1598323255919">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state width="1822" height="275" key="GridCell.Tab.0.left/52.27.1868.1053@52.27.1868.1053" timestamp="1598323255919" />
+    <state width="1822" height="275" key="GridCell.Tab.0.right" timestamp="1598323255920">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state width="1822" height="275" key="GridCell.Tab.0.right/52.27.1868.1053@52.27.1868.1053" timestamp="1598323255920" />
+    <state x="604" y="257" width="753" height="599" key="new project wizard" timestamp="1598317689837">
+      <screen x="52" y="27" width="1868" height="1053" />
+    </state>
+    <state x="604" y="257" width="753" height="599" key="new project wizard/52.27.1868.1053@52.27.1868.1053" timestamp="1598317689837" />
+  </component>
+</project>
